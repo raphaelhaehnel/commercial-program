@@ -27,27 +27,19 @@ After loading the data, or creating a new project, you should be able to perform
 
 <img src="https://user-images.githubusercontent.com/69756617/205748457-444077c3-41c7-4170-a70a-df1ada4b5ac8.PNG"/>
 
+<img src="https://user-images.githubusercontent.com/69756617/205752107-ca8ea374-bda7-4011-9853-f586734c4109.png"/> New Product: create a new product. You need to define the name, the price and the amount. It will add the product to the list of products.
 
-<img src="https://user-images.githubusercontent.com/69756617/205752107-ca8ea374-bda7-4011-9853-f586734c4109.png"/>
+<img src="https://user-images.githubusercontent.com/69756617/205752121-bdb1810d-86e9-46ee-a89f-90eae795733b.png"/> New Buyer: add a buyer to the list of buyers. Each new buyer is starting with a balance of 0.
 
-<img src="https://user-images.githubusercontent.com/69756617/205752121-bdb1810d-86e9-46ee-a89f-90eae795733b.png"/> New Transaction:
+<img src="https://user-images.githubusercontent.com/69756617/205752136-9b341025-d0e6-4f19-b8e1-3abb29eb6770.png"/> New Transaction: performs a transaction. You need to specify the name of the buyer, the name of the product, the quantity he's buying and the date of the transaction.
 
-<img src="https://user-images.githubusercontent.com/69756617/205748457-444077c3-41c7-4170-a70a-df1ada4b5ac8.PNG"/> New Buyer:
+<img src="https://user-images.githubusercontent.com/69756617/205752153-77769836-0a4c-4408-bc90-db5da3b24688.png"/> Add quantity: add an amout of products for an existing product.
 
-<img src="https://user-images.githubusercontent.com/69756617/205752136-9b341025-d0e6-4f19-b8e1-3abb29eb6770.png"/>
-<img src="https://user-images.githubusercontent.com/69756617/205752153-77769836-0a4c-4408-bc90-db5da3b24688.png"/>
-<img src="https://user-images.githubusercontent.com/69756617/205752162-b6631ad4-587d-4d04-b52e-54eb3bad9dc8.png"/>
-<img src="https://user-images.githubusercontent.com/69756617/205752204-c066d67e-89f4-4262-b122-e6d677ad5c59.png"/>
-<img src="https://user-images.githubusercontent.com/69756617/205752222-2ccca064-52c6-4315-a108-8c8eb9f886ae.png"/>
+<img src="https://user-images.githubusercontent.com/69756617/205752162-b6631ad4-587d-4d04-b52e-54eb3bad9dc8.png"/> Payment: choose a buyer and make him pay to decrease his balance. Payment is not considered as a transaction. However you can see the total spent money in the shop by a specific buyer with the "Money spent" button.
 
-![new_transaction]()
-![ajouter_quantite]()
-![payer]()
-
-![transactions]()
-![depense]()
-
-
+<img src="https://user-images.githubusercontent.com/69756617/205752204-c066d67e-89f4-4262-b122-e6d677ad5c59.png"/> Transactions: displays the transactions table, which concentrate all the performed transactions from the begining. You can't undo a transaction.
+You can see below the transaction table.
 
 <img src="https://user-images.githubusercontent.com/69756617/205748481-dcb405ce-16ce-41dd-a99b-9c024f3544d0.PNG"/>
 
+<img src="https://user-images.githubusercontent.com/69756617/205752222-2ccca064-52c6-4315-a108-8c8eb9f886ae.png"/> Money spent: displays the money spent for a specific buyer.
